@@ -29,13 +29,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-1.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-1.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -43,28 +43,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-2.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-2.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
-                            <!-- Item Name -->
-                        </div>
-
-                        <!-- Item -->
-                        <div class="item" style="width: 12.5%">
-                            <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-3.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-3.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                             <!-- Item Name -->
@@ -73,13 +58,28 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-4.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-4.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a> </div>
+                            </div>
+                            <!-- Item Name -->
+                        </div>
+
+                        <!-- Item -->
+                        <div class="item" style="width: 12.5%">
+                            <!-- Images -->
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                                src="images/item-img-1-1-1.jpg" alt="">
+                            <!-- Overlay  -->
+                            <div class="overlay">
+                                <!-- Price -->
+                                <span class="price"><small>$</small>299</span>
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
 
@@ -88,13 +88,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-5.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-5.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -102,13 +102,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-6.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-6.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -116,13 +116,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-7.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-7.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -130,13 +130,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-8.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-8.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -178,8 +178,39 @@
                             <div class="item-name"> <a href="#.">stone cup</a>
                                 <p>Lorem ipsum dolor sit amet</p>
                             </div>
+                         
                             <!-- Price -->
-                            <span class="price"><small>$</small>299</span>
+                            <div class="row ">
+                                <div class="col-md-6 position-center">
+                                    <span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+                                    <span class="price"><small>$</small>299</span>
+
+                                </div>
+                                        <div class="input-group">
+                                            <span class="input-group-btn">
+                                                <button type="button" class="quantity-left-minus btn btn-danger btn-number btn-sm"  data-type="minus" data-field="">
+                                                <span class="glyphicon glyphicon-minus"></span>
+                                                </button>
+                                            </span>
+                                            <input type="text" id="quantity" name="quantity" class="form-control input-number" value="10" min="1" max="100">
+                                            <span class="input-group-btn">
+                                                <button type="button" class="quantity-right-plus btn btn-success btn-number btn-sm" data-type="plus" data-field="">
+                                                    <span class="glyphicon glyphicon-plus"></span>
+                                                </button>
+                                            </span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="container">
+    
+                                    <a href="#." class="btn btn-primary btn-sm" title="Add To Cart"><i class="icon-basket">Sepete Ekle</i></a>
+                                </div>
+                            </div>
+                               
                         </div>
 
                         <!-- Item -->

@@ -19,7 +19,7 @@ class ProductSeeder extends Seeder
         //
         for ($i=0; $i < 10; $i++) { 
             DB::table('products')->insert([
-                'image' => Str::random(10),
+                'image' => 'https://www.civilim.com/productimages/395139/small/8681817570287.jpg',
                 'name' => Str::random(10),
                 'price' => 100.9,
                 'rating' => 2,
