@@ -172,7 +172,6 @@
           <li><a href="#."><i class="icon-social-twitter"></i></a></li>
           <li><a href="#."><i class="icon-social-tumblr"></i></a></li>
           <li><a href="#."><i class="icon-social-youtube"></i></a></li>
-          <li><a href="#."><i class="icon-social-dribbble"></i></a></li>
         </ul>
       </div>
     </section>

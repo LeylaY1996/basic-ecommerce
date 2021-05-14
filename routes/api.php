@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\Api\ProductController;
+use App\Http\Controllers\Api\SliderController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -14,6 +16,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+Route::resource('products', ProductController::class);
+
+Route::resource('sliders', SliderController::class);
+
+/* Route::group(['namespace' => 'Api'], function () {
+    Route::group(['namespace' => 'Products'], function () {
+       
+    });
+
+    Route::group(['namespace' => 'Slider'], function () {
+    });
+   
+}); */
