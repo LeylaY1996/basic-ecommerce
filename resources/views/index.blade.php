@@ -153,140 +153,65 @@
                     <div class="heading text-center">
                         <h4>Our Featured products</h4>
                     </div>
-
+@dump($products)
                     <!-- Popular Item Slide -->
                     <div class="papular-block block-slide">
-
-                        <!-- Item -->
-                        <div class="item">
-                            <!-- Item img -->
-                            <div class="item-img"> <img class="img-1" src="images/product-1.jpg" alt=""> <img
-                                    class="img-2" src="images/product-2.jpg" alt="">
-                                <!-- Overlay -->
-                                <div class="overlay">
-                                    <div class="position-center-center">
-                                        <div class="inn"><a href="images/product-1.jpg" data-lighter><i
-                                                    class="icon-magnifier"></i></a> <a href="#." data-toggle="tooltip"
-                                                data-placement="top" title="Add To Cart"><i class="icon-basket"></i></a>
-                                            <a href="#." data-toggle="tooltip" data-placement="top"
-                                                title="Add To WishList"><i class="icon-heart"></i></a>
+                        @foreach ($products as $product)
+                            @if($product->basket_status == 0)
+                                <div class="item">
+                                    <!-- Item img -->
+                                    <div class="item-img"> <img class="img-1" id="img-1" src="{{$product->image}}" alt=""> <img
+                                            class="img-2" src="{{$product->image}}" alt="">
+                                        <!-- Overlay -->
+                                        <div class="overlay">
+                                            <div class="position-center-center">
+                                                <div class="inn"><a href="{{$product->image}}" data-lighter><i
+                                                            class="icon-magnifier"></i></a> <a href="#." data-toggle="tooltip"
+                                                        data-placement="top" title="Add To Cart"><i class="icon-basket"></i></a>
+                                                    <a href="#." data-toggle="tooltip" data-placement="top"
+                                                        title="Add To WishList"><i class="icon-heart"></i></a>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                            <!-- Item Name -->
-                            <div class="item-name"> <a href="#.">stone cup</a>
-                                <p>Lorem ipsum dolor sit amet</p>
-                            </div>
-                         
-                            <!-- Price -->
-                            <div class="row ">
-                                <div class="col-md-6 position-center">
-                                    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-                                    <span class="price"><small>$</small>299</span>
+                                    <!-- Item Name -->
+                                    <div class="item-name"> 
+                                        <p value="{{$product->name}}"   id="product_name">{{$product->name}}</p>
+                                    </div>
+                                
+                                    <!-- Price -->
+                                    <div class="row ">
+                                        <div class="col-md-6 position-center">
+                                            <span class="fa fa-star checked"></span>
+                                            <span class="fa fa-star checked"></span>
+                                            <span class="fa fa-star checked"></span>
+                                            <span class="fa fa-star"></span>
+                                            <span class="fa fa-star"></span>
+                                            <span class="price"  id="price" value="{{$product->price}}">{{$product->price}}₺</span>
 
-                                </div>
-                                        <div class="input-group">
-                                            <span class="input-group-btn">
-                                                <button type="button" class="quantity-left-minus btn btn-danger btn-number btn-sm"  data-type="minus" data-field="">
-                                                <span class="glyphicon glyphicon-minus"></span>
-                                                </button>
-                                            </span>
-                                            <input type="text" id="quantity" name="quantity" class="form-control input-number" value="10" min="1" max="100">
-                                            <span class="input-group-btn">
-                                                <button type="button" class="quantity-right-plus btn btn-success btn-number btn-sm" data-type="plus" data-field="">
-                                                    <span class="glyphicon glyphicon-plus"></span>
-                                                </button>
-                                            </span>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="container">
-    
-                                    <a href="#." class="btn btn-primary btn-sm" title="Add To Cart"><i class="icon-basket">Sepete Ekle</i></a>
-                                </div>
-                            </div>
-                               
-                        </div>
-
-                        <!-- Item -->
-                        <div class="item">
-                            <!-- Item img -->
-                            <div class="item-img"> <img class="img-1" src="images/product-2.jpg" alt=""> <img
-                                    class="img-2" src="images/product-2.jpg" alt="">
-                                <!-- Overlay -->
-                                <div class="overlay">
-                                    <div class="position-center-center">
-                                        <div class="inn"><a href="images/product-2.jpg" data-lighter><i
-                                                    class="icon-magnifier"></i></a> <a href="#." data-toggle="tooltip"
-                                                data-placement="top" title="Add To Cart"><i class="icon-basket"></i></a>
-                                            <a href="#." data-toggle="tooltip" data-placement="top"
-                                                title="Add To WishList"><i class="icon-heart"></i></a>
+                                        </div>
+                                                <div class="input-group">
+                                                    <div class="col-5 mt-1">
+                                                        <input id="minus" type="button" class="minus" value="-"
+                                                        onclick="incrementValue('product_{{$product->id }}')">
+                                                        <input class="quantity_txt" type="text" title="Qty" name="qty" value="1" size="1" min="0" step="1"
+                                                        id="product_{{ $product->id }}" readonly>
+                                                        <input id="plus" type="button" class="plus" value="+"
+                                                        onclick="decrementValue('product_{{$product->id }}')" />
+                                                    </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                            <!-- Item Name -->
-                            <div class="item-name"> <a href="#.">gray bag</a>
-                                <p>Lorem ipsum dolor sit amet</p>
-                            </div>
-                            <!-- Price -->
-                            <span class="price"><small>$</small>299</span>
-                        </div>
+                                    <div class="row">
+                                        <div class="container">
 
-                        <!-- Item -->
-                        <div class="item">
-                            <!-- Item img -->
-                            <div class="item-img"> <img class="img-1" src="images/product-3.jpg" alt=""> <img
-                                    class="img-2" src="images/product-2.jpg" alt="">
-                                <!-- Overlay -->
-                                <div class="overlay">
-                                    <div class="position-center-center">
-                                        <div class="inn"><a href="images/product-3.jpg" data-lighter><i
-                                                    class="icon-magnifier"></i></a> <a href="#." data-toggle="tooltip"
-                                                data-placement="top" title="Add To Cart"><i class="icon-basket"></i></a>
-                                            <a href="#." data-toggle="tooltip" data-placement="top"
-                                                title="Add To WishList"><i class="icon-heart"></i></a>
+                                            <button href="#." class="btn btn-primary btn-sm" onclick="baskedAdded({{ $product->id }})"><i class="icon-basket">Sepete Ekle</i></button>
                                         </div>
                                     </div>
+                                    
                                 </div>
-                            </div>
-                            <!-- Item Name -->
-                            <div class="item-name"> <a href="#.">chiar</a>
-                                <p>Lorem ipsum dolor sit amet</p>
-                            </div>
-                            <!-- Price -->
-                            <span class="price"><small>$</small>299</span>
-                        </div>
+                            @endif
+                        @endforeach
 
-                        <!-- Item -->
-                        <div class="item">
-                            <!-- Item img -->
-                            <div class="item-img"> <img class="img-1" src="images/product-4.jpg" alt=""> <img
-                                    class="img-2" src="images/product-2.jpg" alt="">
-                                <!-- Overlay -->
-                                <div class="overlay">
-                                    <div class="position-center-center">
-                                        <div class="inn"><a href="images/product-4.jpg" data-lighter><i
-                                                    class="icon-magnifier"></i></a> <a href="#." data-toggle="tooltip"
-                                                data-placement="top" title="Add To Cart"><i class="icon-basket"></i></a>
-                                            <a href="#." data-toggle="tooltip" data-placement="top"
-                                                title="Add To WishList"><i class="icon-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item Name -->
-                            <div class="item-name"> <a href="#.">STool</a>
-                                <p>Lorem ipsum dolor sit amet</p>
-                            </div>
-                            <!-- Price -->
-                            <span class="price"><small>$</small>299</span>
-                        </div>
                     </div>
                 </div>
             </section>

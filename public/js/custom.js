@@ -1,34 +1,36 @@
-$(document).ready(function(){
+function incrementValue(id) {
+    var value = document.getElementById(id).value;
+    value = isNaN(value) ? 0 : value;
+    if (value > 1) {
+      value--;
+      document.getElementById(id).value = value;
+    }
+  }
+  
+  function decrementValue(id) {
+    var value = document.getElementById(id).value;
+  
+    value = isNaN(value) ? 0 : value;
+    if (value < 10) {
+      value++;
+      document.getElementById(id).value = value;
+    }
+  }
 
-    var quantitiy=0;
-       $('.quantity-right-plus').click(function(e){
-            
-            // Stop acting like a button
-            e.preventDefault();
-            // Get the field name
-            var quantity = parseInt($('#quantity').val());
-            
-            // If is not undefined
-                
-                $('#quantity').val(quantity + 1);
-    
-              
-                // Increment
-            
-        });
-    
-         $('.quantity-left-minus').click(function(e){
-            // Stop acting like a button
-            e.preventDefault();
-            // Get the field name
-            var quantity = parseInt($('#quantity').val());
-            
-            // If is not undefined
-          
-                // Increment
-                if(quantity>0){
-                $('#quantity').val(quantity - 1);
-                }
-        });
-        
-    });
+
+  //image,name,rating,basket_status,price
+ function baskedAdded(id) {
+  var image = $("#img-1").html();
+  var name = $("#product_name").html();
+  var price = $("#price").html();
+
+  var rating = $("#rating").html();
+  var basket_status = 1;
+      console.log("image"+image)
+      console.log("name"+name)
+      console.log("price"+price)
+
+      console.log("Eklendi"+basket_status)
+
+
+  }
