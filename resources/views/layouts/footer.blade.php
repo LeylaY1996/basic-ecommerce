@@ -21,44 +21,17 @@
         <!-- Popular Item Slide -->
         <div class="papular-block row">
 
-            <!-- Item -->
-            <div class="col-md-4">
+               <!-- Item -->
+               <div class="col-md-4">
                 <div class="item">
                     <!-- Item img -->
-                    <div class="item-img"> <img class="img-1" src="images/product-2-1.jpg" alt=""> <img
-                            class="img-2" src="images/product-2.jpg" alt="">
+                    <div class="item-img"> <img class="img-1" src="images/new-ar-img-1.jpg" alt=""> <img
+                            class="img-2" src="images/new-ar-img-1.jpg" alt="">
                         <!-- Overlay -->
                         <div class="overlay">
                             <div class="position-center-center">
-                                <div class="inn"><a href="images/product-2-1.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> <a href="#."><i
-                                            class="icon-basket"></i></a> <a href="#."><i
-                                            class="icon-heart"></i></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Item Name -->
-                    <div class="item-name"> <a href="#.">stone cup</a>
-                        <p>Lorem ipsum dolor sit amet</p>
-                    </div>
-                    <!-- Price -->
-                    <span class="price"><small>$</small>299</span>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="col-md-4">
-                <div class="item">
-                    <!-- Item img -->
-                    <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                            class="img-2" src="images/product-2.jpg" alt="">
-                        <!-- Overlay -->
-                        <div class="overlay">
-                            <div class="position-center-center">
-                                <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> <a href="#."><i
-                                            class="icon-basket"></i></a> <a href="#."><i
-                                            class="icon-heart"></i></a></div>
+                                <div class="inn"><a href="images/new-ar-img-1.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -66,24 +39,21 @@
                     <div class="item-name"> <a href="#.">chiar</a>
                         <p>Lorem ipsum dolor sit amet</p>
                     </div>
-                    <!-- Price -->
-                    <span class="price"><small>$</small>299</span>
                 </div>
             </div>
 
-            <!-- Item -->
-            <div class="col-md-4">
+
+              <!-- Item -->
+              <div class="col-md-4">
                 <div class="item">
                     <!-- Item img -->
-                    <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                            class="img-2" src="images/product-2.jpg" alt="">
+                    <div class="item-img"> <img class="img-1" src="images/new-ar-img-1.jpg" alt=""> <img
+                            class="img-2" src="images/new-ar-img-1.jpg" alt="">
                         <!-- Overlay -->
                         <div class="overlay">
                             <div class="position-center-center">
-                                <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> <a href="#."><i
-                                            class="icon-basket"></i></a> <a href="#."><i
-                                            class="icon-heart"></i></a></div>
+                                <div class="inn"><a href="images/new-ar-img-1.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -91,8 +61,28 @@
                     <div class="item-name"> <a href="#.">chiar</a>
                         <p>Lorem ipsum dolor sit amet</p>
                     </div>
-                    <!-- Price -->
-                    <span class="price"><small>$</small>299</span>
+                </div>
+            </div>
+
+
+            <!-- Item -->
+            <div class="col-md-4">
+                <div class="item">
+                    <!-- Item img -->
+                    <div class="item-img"> <img class="img-1" src="images/new-ar-img-1.jpg" alt=""> <img
+                            class="img-2" src="images/new-ar-img-1.jpg" alt="">
+                        <!-- Overlay -->
+                        <div class="overlay">
+                            <div class="position-center-center">
+                                <div class="inn"><a href="images/new-ar-img-1.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item Name -->
+                    <div class="item-name"> <a href="#.">chiar</a>
+                        <p>Lorem ipsum dolor sit amet</p>
+                    </div>
                 </div>
             </div>
 

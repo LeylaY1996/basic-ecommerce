@@ -29,13 +29,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -43,28 +43,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
-                            <!-- Item Name -->
-                        </div>
-
-                        <!-- Item -->
-                        <div class="item" style="width: 12.5%">
-                            <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                             <!-- Item Name -->
@@ -73,13 +58,28 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a> </div>
+                            </div>
+                            <!-- Item Name -->
+                        </div>
+
+                        <!-- Item -->
+                        <div class="item" style="width: 12.5%">
+                            <!-- Images -->
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
+                                src="images/item-img-1-1-1.jpg" alt="">
+                            <!-- Overlay  -->
+                            <div class="overlay">
+                                <!-- Price -->
+                                <span class="price"><small>$</small>299</span>
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
 
@@ -88,13 +88,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -102,13 +102,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -116,13 +116,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -130,13 +130,13 @@
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="https://www.civilim.com/productimages/395139/small/8681817570287.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                             @if($product->basket_status == 0)
                                 <div class="item">
                                     <!-- Item img -->
-                                    <div class="item-img"> <img class="img-1" id="img-1" src="{{$product->image}}" alt=""> <img
+                                    <div class="item-img"> <img class="img-1" id="img-1" src="{{$product->image}}" value="{{$product->image}}" alt=""> <img
                                             class="img-2" src="{{$product->image}}" alt="">
                                         <!-- Overlay -->
                                         <div class="overlay">
@@ -187,7 +187,7 @@
                                             <span class="fa fa-star checked"></span>
                                             <span class="fa fa-star"></span>
                                             <span class="fa fa-star"></span>
-                                            <span class="price"  id="price" value="{{$product->price}}">{{$product->price}}₺</span>
+                                            <span class="price"  id="price" value="{{$product->price}}">{{$product->price}}</span>
 
                                         </div>
                                                 <div class="input-group">
@@ -220,7 +220,6 @@
             <!-- Knowledge Share -->
             <section class="light-gray-bg padding-top-150 padding-bottom-150">
                 <div class="container">
-@dump($videos)
                     @foreach ($videos as $video)
                     <div class="heading text-center">
                         <h4>{{$video->title}}</h4>
@@ -228,8 +227,8 @@
                         <div class="row padding-top-50">
                             <div class="container">
                                 <iframe width="800" height="315"
-src={{$video->url}}>
-</iframe>
+                                    src={{$video->url}}>
+                                </iframe>
                             </div>
                         </div>
 
@@ -249,24 +248,18 @@ src={{$video->url}}>
                         <div class="col-md-4">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-1.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-2.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-2.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-1.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-2.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">stone cup</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -274,24 +267,18 @@ src={{$video->url}}>
                         <div class="col-md-4">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-2.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-2.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-2.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">chiar</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -299,24 +286,18 @@ src={{$video->url}}>
                         <div class="col-md-4">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-2.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-2.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-2.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">chiar</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -359,7 +340,7 @@ src={{$video->url}}>
                         </div>
 
                         <!-- Img -->
-                        <div class="col-sm-6"> <img class="img-responsive" src="images/testi-avatar.jpg" alt=""> </div>
+                        <div class="col-sm-6"> <img class="img-responsive" src="images/nav-img.png" alt=""> </div>
                     </div>
                 </div>
             </section>
@@ -374,24 +355,18 @@ src={{$video->url}}>
                         <div class="col-md-6" style="height: auto">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-1.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-4.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-4.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-1.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-4.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">stone cup</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -399,24 +374,18 @@ src={{$video->url}}>
                         <div class="col-md-6" style="height: auto">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-4.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-4.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-4.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">chiar</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -437,222 +406,112 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-4.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-4.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-3.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-3.jpg" alt="">
 
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-5.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-5.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-6.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-6.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-3.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-3.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-7.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-7.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-8.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-8.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images//shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/images/shop-3-img-4.jpg" alt="">
                         </div>
                     </div>
                     <div class="arrival-block">
 
-
-
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-4.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-4.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
-
+                            <img class="img-1" src="images/shop-3-img-3.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-3.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-5.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                             <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-5.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-6.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-6.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-7.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-7.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-3.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-3.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-8.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-8.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
                     </div>
                     <div class="arrival-block">
-
-
-
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-4.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-4.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
-
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-5.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-5.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-6.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-6.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-7.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-7.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-3.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-3.jpg" alt="">
                         </div>
 
                         <!-- Item -->
                         <div class="item" style="width: 20%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-8.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-8.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
+                            <img class="img-1" src="images/shop-3-img-4.jpg" alt=""> <img class="img-2"
+                                src="images/shop-3-img-4.jpg" alt="">
+                            
                         </div>
                     </div>
                 </div>
@@ -669,24 +528,18 @@ src={{$video->url}}>
                         <div class="col-md-6">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-1.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-2.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-2.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-1.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-2.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">stone cup</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -694,24 +547,18 @@ src={{$video->url}}>
                         <div class="col-md-6">
                             <div class="item">
                                 <!-- Item img -->
-                                <div class="item-img"> <img class="img-1" src="images/product-2-3.jpg" alt=""> <img
-                                        class="img-2" src="images/product-2.jpg" alt="">
+                                <div class="item-img"> <img class="img-1" src="images/new-ar-img-2.jpg" alt=""> <img
+                                        class="img-2" src="images/new-ar-img-2.jpg" alt="">
                                     <!-- Overlay -->
                                     <div class="overlay">
                                         <div class="position-center-center">
-                                            <div class="inn"><a href="images/product-2-3.jpg" data-lighter><i
+                                            <div class="inn"><a href="images/new-ar-img-2.jpg" data-lighter><i
                                                         class="icon-magnifier"></i></a> <a href="#."><i
                                                         class="icon-basket"></i></a> <a href="#."><i
                                                         class="icon-heart"></i></a></div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Item Name -->
-                                <div class="item-name"> <a href="#.">chiar</a>
-                                    <p>Lorem ipsum dolor sit amet</p>
-                                </div>
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
                             </div>
                         </div>
 
@@ -719,7 +566,8 @@ src={{$video->url}}>
                 </div>
             </section>
 
-            <section class="padding-top-100 padding-bottom-100">
+             <!-- New Arrival -->
+             <section class="padding-top-100 padding-bottom-100">
                 <div class="container">
 
                     <!-- New Arrival -->
@@ -728,13 +576,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-1.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-1.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -742,28 +590,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-2.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-2.jpg" data-lighter><i
-                                            class="icon-magnifier"></i></a> </div>
-                            </div>
-                            <!-- Item Name -->
-                        </div>
-
-                        <!-- Item -->
-                        <div class="item" style="width: 12.5%">
-                            <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-3.jpg" alt=""> <img class="img-2"
-                                src="images/item-img-1-1-1.jpg" alt="">
-                            <!-- Overlay  -->
-                            <div class="overlay">
-                                <!-- Price -->
-                                <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-3.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                             <!-- Item Name -->
@@ -772,13 +605,28 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-4.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-4.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
+                                            class="icon-magnifier"></i></a> </div>
+                            </div>
+                            <!-- Item Name -->
+                        </div>
+
+                        <!-- Item -->
+                        <div class="item" style="width: 12.5%">
+                            <!-- Images -->
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
+                                src="images/item-img-1-1-1.jpg" alt="">
+                            <!-- Overlay  -->
+                            <div class="overlay">
+                                <!-- Price -->
+                                <span class="price"><small>$</small>299</span>
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
 
@@ -787,13 +635,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-5.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-5.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -801,13 +649,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-6.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-6.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -815,13 +663,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-7.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-7.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
@@ -829,13 +677,13 @@ src={{$video->url}}>
                         <!-- Item -->
                         <div class="item" style="width: 12.5%">
                             <!-- Images -->
-                            <img class="img-1" src="images/item-img-1-8.jpg" alt=""> <img class="img-2"
+                            <img class="img-1" src="images/shop-3-img-2.jpg" alt=""> <img class="img-2"
                                 src="images/item-img-1-1-1.jpg" alt="">
                             <!-- Overlay  -->
                             <div class="overlay">
                                 <!-- Price -->
                                 <span class="price"><small>$</small>299</span>
-                                <div class="position-center-center"> <a href="images/item-img-1-8.jpg" data-lighter><i
+                                <div class="position-center-center"> <a href="images/shop-3-img-2.jpg" data-lighter><i
                                             class="icon-magnifier"></i></a> </div>
                             </div>
                         </div>
