@@ -3,9 +3,10 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
+use App\Models\Subscribe;
 use Illuminate\Http\Request;
 
-class SliderController extends Controller
+class SubscribeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -37,6 +38,12 @@ class SliderController extends Controller
     public function store(Request $request)
     {
         //
+        $subscribe = new Subscribe();
+        $subscribe->fullname = $request->fullname;
+        $subscribe->email = $request->email;
+        $subscribe->save();
+
+        return response()->json(["message" => "Subscribe Created"],201);
     }
 
     /**

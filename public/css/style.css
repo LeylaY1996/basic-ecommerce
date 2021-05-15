@@ -947,12 +947,12 @@ header .user-basket .media-heading {
 	margin-top: 0px;
 	font-weight: normal;
 }
-header .user-basket span {
+/* header .user-basket span {
 	display: inline-block;
 	width: 100%;
 	margin: 5px 0;
 	font-size: 12px;
-}
+} */
 header .user-basket .cart-img a {
 	display: inline-block;
 	width: 100%;

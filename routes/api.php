@@ -1,7 +1,7 @@
 <?php
 
 use App\Http\Controllers\Api\ProductController;
-use App\Http\Controllers\Api\SliderController;
+use App\Http\Controllers\Api\SubscribeController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::resource('products', ProductController::class);
 
-Route::resource('sliders', SliderController::class);
+Route::resource('subscribe', SubscribeController::class);
 
 /* Route::group(['namespace' => 'Api'], function () {
     Route::group(['namespace' => 'Products'], function () {

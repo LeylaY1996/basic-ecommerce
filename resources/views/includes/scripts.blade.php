@@ -7,5 +7,8 @@
 <!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
 <script type="text/javascript" src="{{ asset('rs-plugin/js/jquery.tp.t.min.js') }}"></script> 
 <script type="text/javascript" src="{{ asset('rs-plugin/js/jquery.tp.min.js') }}"></script> 
+<!-- JavaScripts -->
+<script src="{{ asset('js/modernizr.js') }}"></script>
 <script src="{{ asset('js/main.js') }}"></script> 
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 <script src="{{ asset('js/custom.js') }}"></script> 

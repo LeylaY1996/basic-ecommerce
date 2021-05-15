@@ -1,81 +1,47 @@
 <section class="home-slider"> 
-    
     <!-- SLIDE Start -->
     <div class="tp-banner-container">
       <div class="tp-banner">
         <ul>
-          <!-- SLIDE  -->
-          <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
-            <!-- MAIN IMAGE --> 
-            <img src="images/slide-bg-1.jpg"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
-            <!-- LAYERS --> 
-            <!-- LAYER NR. 1 -->
-            <div class="tp-caption font-playfair sfb tp-resizeme" 
-                data-x="left" data-hoffset="0" 
-                data-y="center" data-voffset="-200" 
-                data-speed="800" 
-                data-start="500" 
-                data-easing="Power3.easeInOut" 
-                data-splitin="none" 
-                data-splitout="none" 
-                data-elementdelay="0.1" 
-                data-endelementdelay="0.1" 
-                data-endspeed="300" 
-                style="z-index: 7; font-size:18px; color:#fff; max-width: auto; max-height: auto; white-space: nowrap;">The Latest Product from PAVSHOP</div>
-            <!-- LAYER NR. 2 -->
-            <div class="tp-caption sfl font-extra-bold tp-resizeme" 
-                data-x="left" data-hoffset="0" 
-                data-y="center" data-voffset="-120" 
-                data-speed="800" 
-                data-start="800" 
-                data-easing="Power3.easeInOut" 
-                data-splitin="none" 
-                data-splitout="none" 
-                data-elementdelay="0.07" 
-                data-endelementdelay="0.1" 
-                data-endspeed="300" 
-                style="z-index: 6; font-size:80px; color:#2d3a4b; text-transform:uppercase; white-space: nowrap;"><small class="font-regular">$</small>299 </div>
-            <!-- LAYER NR. 2 -->
-            <div class="tp-caption sfr font-extra-bold tp-resizeme" 
-                data-x="left" data-hoffset="0" 
-                data-y="center" data-voffset="0" 
-                data-speed="800" 
-                data-start="800" 
-                data-easing="Power3.easeInOut" 
-                data-splitin="chars" 
-                data-splitout="none" 
-                data-elementdelay="0.07" 
-                data-endelementdelay="0.1" 
-                data-endspeed="300" 
-                style="z-index: 6; font-size:120px; color:#fff; text-transform:uppercase; white-space: nowrap;">featured </div>
-            <!-- LAYER NR. 2 -->
-            <div class="tp-caption sfr font-extra-bold tp-resizeme" 
-                data-x="left" data-hoffset="0" 
-                data-y="center" data-voffset="110" 
-                data-speed="800" 
-                data-start="1300" 
-                data-easing="Power3.easeInOut" 
-                data-splitin="chars" 
-                data-splitout="none" 
-                data-elementdelay="0.07" 
-                data-endelementdelay="0.1" 
-                data-endspeed="300" 
-                style="z-index: 6; font-size:120px; color:#fff; text-transform:uppercase; white-space: nowrap;">cycle </div>
-            <!-- LAYER NR. 4 -->
-            <div class="tp-caption lfb tp-resizeme" 
-                data-x="left" data-hoffset="0" 
-                data-y="center" data-voffset="240" 
-                data-speed="800" 
-                data-start="2200" 
-                data-easing="Power3.easeInOut" 
-                data-elementdelay="0.1" 
-                data-endelementdelay="0.1" 
-                data-endspeed="300" 
-                data-scrolloffset="0"
-                style="z-index: 8;"><a href="#." class="btn">SHOP NOW</a> </div>
-          </li>
-          
-          <!-- SLIDE  -->
+            @foreach ($sliders as $slider)
+            <!-- SLIDE  -->
+            <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
+              <!-- MAIN IMAGE --> 
+              <img src="{{$slider->image}}"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+              <!-- LAYERS --> 
+             
+              <!-- LAYER NR. 2 -->
+              <div class="tp-caption sfl font-extra-bold tp-resizeme" 
+                  data-x="left" data-hoffset="0" 
+                  data-y="center" data-voffset="-120" 
+                  data-speed="800" 
+                  data-start="800" 
+                  data-easing="Power3.easeInOut" 
+                  data-splitin="none" 
+                  data-splitout="none" 
+                  data-elementdelay="0.07" 
+                  data-endelementdelay="0.1" 
+                  data-endspeed="300" 
+                  style="z-index: 6; font-size:80px; color:#2d3a4b; text-transform:uppercase; white-space: nowrap;">{{ $slider->title }}</div>
+              <!-- LAYER NR. 2 -->
+              <div class="tp-caption sfr font-extra-bold tp-resizeme" 
+                  data-x="left" data-hoffset="0" 
+                  data-y="center" data-voffset="0" 
+                  data-speed="800" 
+                  data-start="800" 
+                  data-easing="Power3.easeInOut" 
+                  data-splitin="chars" 
+                  data-splitout="none" 
+                  data-elementdelay="0.07" 
+                  data-endelementdelay="0.1" 
+                  data-endspeed="300" 
+                  style="z-index: 6; font-size:120px; color:black; text-transform:uppercase; white-space: nowrap;">{{$slider->detail}} </div>
+         
+            </li>
+            
+                
+            @endforeach
+         {{--  <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
             <img src="images/slide-bg-2.jpg"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
@@ -144,7 +110,7 @@
                 data-endspeed="300" 
                 data-scrolloffset="0"
                 style="z-index: 8;"><a href="#." class="btn">BUY NOW</a> </div>
-          </li>
+          </li> --}}
         </ul>
       </div>
     </div>

@@ -4,6 +4,7 @@ namespace Database\Seeders;
 
 use App\Http\Controllers\Api\ProductController;
 use Illuminate\Database\Seeder;
+use Illuminate\Notifications\Events\NotificationSent;
 
 class DatabaseSeeder extends Seeder
 {
@@ -18,6 +19,9 @@ class DatabaseSeeder extends Seeder
         $this->call(ProductSeeder::class);
         $this->call(SliderSeeder::class);
         $this->call(NotificationSeeder::class);
+        $this->call(VideoSeeder::class);
+        $this->call(InformationSeeder::class);
+
 
 
     }

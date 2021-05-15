@@ -16,10 +16,10 @@ class SliderSeeder extends Seeder
     public function run()
     {
         //
-        for ($i=0; $i < 10; $i++) { 
+        for ($i=0; $i < 3; $i++) { 
             DB::table('sliders')->insert([
-                'image' => Str::random(10),
-                'effect' => Str::random(10),
+                'image' =>'images/special-bg.jpg',
+                'effect' => 'Power3.easeInOut',
                 'title' => Str::random(10),
                 'detail' => Str::random(10),
                 'url' => Str::random(10)

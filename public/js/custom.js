@@ -34,3 +34,25 @@ function incrementValue(id) {
 
 
   }
+
+function subscribe() {
+  var fullname = $("#fullname").val();
+  var email = $("#email").val();
+
+  console.log("hello"+fullname+email);
+
+  $.ajax({
+    method: "POST",
+    url: "/api/subscribe",
+    data: { fullname:fullname,email:email },
+    error: function (jqXHR, exception) {
+      console.log(jqXHR);
+      // Your error handling logic here..
+      toastr.error("Mail adresiniz daha önce kayıt olmuş.");
+  }
+  }).done(function(res) {
+   console.log("resss",res)
+
+   toastr.success("Başarıyla abone oldunuz.");
+  });
+}

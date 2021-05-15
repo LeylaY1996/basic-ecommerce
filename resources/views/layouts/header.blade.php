@@ -3,7 +3,7 @@
     <div class="container">
       <div class="text-center">
         @foreach ( $notifications as $notification )
-          <p>{{ $notification->notification_message }}</p>
+          <p>{{ $notification->message }}</p>
         @endforeach
       </div>
        
@@ -171,7 +171,9 @@
               </li>
               
               <!-- USER BASKET -->
-              <li class="dropdown user-basket"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"><i class="icon-basket-loaded"></i> </a>
+              <li class="dropdown user-basket"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+                <i class="icon-basket-loaded"><span class="badge badge-info">3</span>
+              </i></a>
                 <ul class="dropdown-menu">
                   <li>
                     <div class="media-left">

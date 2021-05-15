@@ -153,7 +153,7 @@
                     <div class="heading text-center">
                         <h4>Our Featured products</h4>
                     </div>
-@dump($products)
+
                     <!-- Popular Item Slide -->
                     <div class="papular-block block-slide">
                         @foreach ($products as $product)
@@ -220,23 +220,22 @@
             <!-- Knowledge Share -->
             <section class="light-gray-bg padding-top-150 padding-bottom-150">
                 <div class="container">
-
-                    <!-- Main Heading -->
+@dump($videos)
+                    @foreach ($videos as $video)
                     <div class="heading text-center">
-                        <h4>knowledge share</h4>
-                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus maximus vehicula.
-                            Sed feugiat, tellus vel tristique posuere, diam</span>
+                        <h4>{{$video->title}}</h4>
+                        <span>{{$video->description}}</span>
                         <div class="row padding-top-50">
                             <div class="container">
-                                <video width="800" controls>
-                                    <source src="mov_bbb.mp4" type="video/mp4">
-                                    <source src="mov_bbb.ogg" type="video/ogg">
-                                    Your browser does not support HTML video.
-                                </video>
+                                <iframe width="800" height="315"
+src={{$video->url}}>
+</iframe>
                             </div>
                         </div>
 
                     </div>
+                    @endforeach
+                    <!-- Main Heading -->
                 </div>
             </section>
             <!-- Popular Products -->

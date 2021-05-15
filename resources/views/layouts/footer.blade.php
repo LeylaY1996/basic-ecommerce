@@ -1,59 +1,17 @@
 <footer>
     <div class="container"> 
-      
-      <div class="col-md-3">
-        <h6>Customer Ipsum</h6>
-        <ul class="link">
-          <li><a href="#."> Products</a></li>
-          <li><a href="#."> Find a Store</a></li>
-          <li><a href="#."> Features</a></li>
-          <li><a href="#."> Privacy Policy</a></li>
-          <li><a href="#."> Blog</a></li>
-          <li><a href="#."> Press Kit </a></li>
-        </ul>
-      </div>
-      
-      <!-- HELPFUL LINKS -->
-      <div class="col-md-3">
-        <h6>FAQ</h6>
-        <ul class="link">
-          <li><a href="#."> Products</a></li>
-          <li><a href="#."> Find a Store</a></li>
-          <li><a href="#."> Features</a></li>
-          <li><a href="#."> Privacy Policy</a></li>
-          <li><a href="#."> Blog</a></li>
-          <li><a href="#."> Press Kit </a></li>
-        </ul>
-      </div>
-      
-      <!-- SHOP -->
-      <div class="col-md-3">
-        <h6>Ipsum Search</h6>
-        <ul class="link">
-          <li><a href="#."> About Us</a></li>
-          <li><a href="#."> Career</a></li>
-          <li><a href="#."> Shipping Methods</a></li>
-          <li><a href="#."> Contact</a></li>
-          <li><a href="#."> Support</a></li>
-          <li><a href="#."> Retailer</a></li>
-        </ul>
-      </div>
-      
-      <!-- MY ACCOUNT -->
-      <div class="col-md-3">
-        <h6>About Ipsum</h6>
-        <ul class="link">
-          <li><a href="#."> Login</a></li>
-          <li><a href="#."> My Account</a></li>
-          <li><a href="#."> My Cart</a></li>
-          <li><a href="#."> Wishlist</a></li>
-          <li><a href="#."> Checkout</a></li>
-        </ul>
-      </div>
-      
-      <!-- Rights -->
-      
-     
+      @dump($informations)
+      @foreach ($informations as $information)
+        <div class="col-md-3">
+          <h6>{{$information->title}}</h6>
+          <ul class="link">
+            <li><a href="#.">{{$information->menu}}</a></li>
+            <li><a href="#.">{{$information->menu}}</a></li>
+            <li><a href="#.">{{$information->menu}}</a></li>
+            <li><a href="#.">{{$information->menu}}</a></li>
+          </ul>
+        </div>
+      @endforeach
     </div>
   </footer>
 
@@ -151,13 +109,13 @@
         <form role="form" id="contact_form" class="contact-form" method="post" onSubmit="return false">
           <ul class="row">
             <li class="col-sm-6">
-              <input type="text" class="form-control" name="name" id="name" placeholder="Fullname">
+              <input type="text" class="form-control" name="name" id="fullname" placeholder="Fullname">
             </li>
             <li class="col-sm-6">
               <input type="text" class="form-control" name="email" id="email" placeholder="Email">
             </li>
             <li class="col-sm-12">
-              <button type="button" class="btn btn-primary">Sign Up</button>
+              <button type="button" class="btn btn-primary" onclick="subscribe()">Sign Up</button>
             </li>
           </ul>
         </form>
