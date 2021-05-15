@@ -2,7 +2,9 @@
   <section>
     <div class="container">
       <div class="text-center">
-        <p>1000 TL ve üzeri alışverişlerde kargo ücretsiz. </p>
+        @foreach ( $notifications as $notification )
+          <p>{{ $notification->notification_message }}</p>
+        @endforeach
       </div>
        
     </div>
