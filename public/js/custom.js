@@ -48,8 +48,13 @@ function incrementValue(id) {
         }).done(function(product) {
           let products = Object.values(product);
           console.log("resss",products)
+          var basket_size = [];
+
           products.forEach(item => {
             if(item.basket_status == 1) {
+             
+              
+             
               console.log("item",item)
               $("#all_basket").append(
                 '<li><div class="media-left"><div class="cart-img"> <a href="#" id="basket_img"> <img class="media-object img-responsive" src="'
@@ -58,13 +63,17 @@ function incrementValue(id) {
                 +item.name+
                 '</h6><span class="price">'+item.price+'</span></div></li>'
               );
+              basket_size.push(item);
+              console.log("basket Size",basket_size);
+              $("#basket_size").html(basket_size.length);
             }
-          // $(".all_basket").empty();
-
+        
           })
         })
     
        toastr.success("Ürün sepete eklendi.");
+       $("#all_basket").empty();
+       $("#basket_size").empty();
       });
 
 

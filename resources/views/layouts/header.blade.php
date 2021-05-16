@@ -51,7 +51,7 @@
               
               <!-- USER BASKET -->
               <li class="dropdown user-basket"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
-                <i class="icon-basket-loaded"><span class="badge badge-info">3</span>
+                <i class="icon-basket-loaded"><span class="badge badge-info"  id="basket_size"></span>
               </i></a>
                 <ul class="dropdown-menu"  class="all_basket" id="all_basket">
                   <li>
